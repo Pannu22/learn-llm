@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What should I do after adjusting the driver's seat?",
+    "quote": "make sure it is securely locked",
+    "product": "car",
+    "page": 22
+  },
+  {
+    "question": "How do I open the bonnet of my vehicle?",
+    "quote": "pull the bonnet release lever two times",
+    "product": "car",
+    "page": 103
+  },
+  {
+    "question": "How do I close the glove box?",
+    "quote": "Lift glove box flap upward until it engages",
+    "product": "car",
+    "page": 318
+  },
+  {
+    "question": "How do I adjust the park assist delay timer?",
+    "quote": "select the park assist delay timer",
+    "product": "car",
+    "page": 200
+  },
+  {
+    "question": "What should I use to clean the camera lens?",
+    "quote": "Use water to clean the camera lens",
+    "product": "car",
+    "page": 202
+  },
+  {
+    "question": "How do I adjust the distance at which collision warnings are provided?",
+    "quote": "Select FCW sensitivity (low, medium and high)",
+    "product": "car",
+    "page": 240
+  },
+  {
+    "question": "What happens if I use a metal smartphone cover with wireless charging?",
+    "quote": "Do not use metal smart phone covers as it would halt the wireless charging function",
+    "product": "car",
+    "page": 311
+  },
+  {
+    "question": "How do I turn on Adaptive Steering Assist in my vehicle?",
+    "quote": "Adaptive Steering Assist can be selected from the driver assist settings",
+    "product": "car",
+    "page": 250
+  },
+  {
+    "question": "How do I reset the Service Reminder Symbol?",
+    "quote": "User can reset the Service Reminder Symbol by right/left & SET buttons",
+    "product": "car",
+    "page": 119
+  },
+  {
+    "question": "How do I lock specific channels to prevent children from watching adult content?",
+    "quote": "Lock specific channels to prevent children from watching adult content",
+    "product": "tv",
+    "page": 182
+  },
+  {
+    "question": "What happens when I turn off the LED Indication feature on Wireless One Connect?",
+    "quote": "the LED Indication turns off",
+    "product": "tv",
+    "page": 16
+  },
+  {
+    "question": "How can I stop the TV from voicing the activity when I change the channel?",
+    "quote": "Turn off the Voice Guide function in Voice Guide Settings",
+    "product": "tv",
+    "page": 281
+  },
+  {
+    "question": "How do I disconnect Wi-Fi on my TV?",
+    "quote": "To disconnect Wi-Fi, select Disconnect in",
+    "product": "tv",
+    "page": 12
+  },
+  {
+    "question": "How do I adjust the volume on my Samsung Smart Remote?",
+    "quote": "Move the button up or down to adjust the volume",
+    "product": "tv",
+    "page": 34
+  },
+  {
+    "question": "What is the maximum resolution supported by the TV for H.264 UHD video playback?",
+    "quote": "Up to 3840 x 2160 is supported",
+    "product": "tv",
+    "page": 247
+  },
+  {
+    "question": "How do I turn the TV on or off with the remote control?",
+    "quote": "Press to turn the TV on or off.",
+    "product": "tv",
+    "page": 32
+  },
+  {
+    "question": "How can I fix a dim screen on my TV?",
+    "quote": "try changing the settings under Reset Picture",
+    "product": "tv",
+    "page": 273
+  },
+  {
+    "question": "What video codecs are supported on the QN950F/QN990F?",
+    "quote": "H.264 BP/MP/HP",
+    "product": "tv",
+    "page": 238
+  },
+  {
+    "question": "How many Schedule Recording and Schedule Viewing events can I create?",
+    "quote": "Up to thirty Schedule Recording and Schedule Viewing events may be created.",
+    "product": "tv",
+    "page": 146
+  },
+  {
+    "question": "How do I launch the Tune Station app?",
+    "quote": "Select Music files on USB storage device or hard disk drive attached to TV",
+    "product": "tv",
+    "page": 103
+  },
+  {
+    "question": "How do I put my mouse in discoverable mode for pairing?",
+    "quote": "Press and hold the Easy-Switch button for three seconds",
+    "product": "mouse",
+    "page": 2
+  },
+  {
+    "question": "How do I turn on my mouse?",
+    "quote": "Make sure the mouse is turned on — the number 1 LED on the bottom of the mouse should blink quickly",
+    "product": "mouse",
+    "page": 1
+  }
+]
